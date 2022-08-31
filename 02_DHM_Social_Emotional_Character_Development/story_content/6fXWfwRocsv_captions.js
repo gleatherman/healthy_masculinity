@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,120%20--%3E%2000:00:02,903%0D%0A-%20Socio-emotional%0D%0Acharacter%20is%20the%20foundation%0D%0A%0D%0A2%0D%0A00:00:03,030%20--%3E%2000:00:04,983%0D%0Afor%20developing%20boys%20into%20healthy%20men.%0D%0A%0D%0A"}')

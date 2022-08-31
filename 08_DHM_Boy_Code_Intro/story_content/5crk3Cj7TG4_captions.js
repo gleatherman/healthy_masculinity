@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,180%20--%3E%2000:00:03,537%0D%0A-%20Now%20that%20we%20have%20examined%0D%0Athe%20three%20lies%20of%20masculinity,%0D%0A%0D%0A2%0D%0A00:00:03,660%20--%3E%2000:00:05,283%0D%0Alet\u0027s%20look%20at%20the%20boy%20code.%0D%0A%0D%0A"}')

@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,180%20--%3E%2000:00:01,602%0D%0A-%20Boys%20learn%20they%20cannot%0D%0A%0D%0A2%0D%0A00:00:01,710%20--%3E%2000:00:05,038%0D%0Aand%20should%20not%20be%20like%0D%0Atheir%20mothers,%20women,%20or%20gay%0D%0A%0D%0A3%0D%0A00:00:05,160%20--%3E%2000:00:06,723%0D%0Ain%20order%20to%20be%20a%20man.%0D%0A%0D%0A"}')

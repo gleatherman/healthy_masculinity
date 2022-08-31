@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,150%20--%3E%2000:00:02,502%0D%0A-%20Masculinity%20is%20almost%20always%20taught%0D%0A%0D%0A2%0D%0A00:00:02,610%20--%3E%2000:00:04,833%0D%0Ain%20opposition%20to%20femininity.%0D%0A%0D%0A"}')

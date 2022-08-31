@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,090%20--%3E%2000:00:01,435%0D%0A-%20We%20begin%20with%20understanding%0D%0A%0D%0A2%0D%0A00:00:01,560%20--%3E%2000:00:04,687%0D%0Asocial%20emotional%20character%20development.%0D%0A%0D%0A"}')

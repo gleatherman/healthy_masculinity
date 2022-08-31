@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,150%20--%3E%2000:00:02,569%0D%0A-%20The%20third%20live%20masculinity%20teaches%20men%0D%0A%0D%0A2%0D%0A00:00:02,670%20--%3E%2000:00:06,033%0D%0Ato%20define%20their%20self%20worth%0D%0Abased%20on%20their%20net%20worth.%0D%0A%0D%0A"}')

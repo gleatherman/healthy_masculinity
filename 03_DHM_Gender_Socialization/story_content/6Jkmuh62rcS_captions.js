@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,180%20--%3E%2000:00:01,568%0D%0A-%20Society%20can%20be%20unaccepting%0D%0A%0D%0A2%0D%0A00:00:01,680%20--%3E%2000:00:04,833%0D%0Aof%20boys%20who%20show%20feelings%20and%20emotions.%0D%0A%0D%0A"}')

@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,150%20--%3E%2000:00:01,235%0D%0A-%20These%20lies%20restrict%0D%0A%0D%0A2%0D%0A00:00:01,350%20--%3E%2000:00:03,570%0D%0Athe%20social-emotional%20character%20development%0D%0A%0D%0A3%0D%0A00:00:03,690%20--%3E%2000:00:06,633%0D%0Anecessary%20for%20boys%20to%20become%20healthy%20men.%0D%0A%0D%0A"}')

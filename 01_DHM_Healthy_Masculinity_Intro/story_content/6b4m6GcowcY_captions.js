@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,120%20--%3E%2000:00:01,335%0D%0A-%20My%20name%20is%20Russ%20Reetz,%0D%0A%0D%0A2%0D%0A00:00:01,440%20--%3E%2000:00:03,563%0D%0Aand%20I\u0027m%20on%20the%20coaching%0D%0Astaff%20for%20this%20module.%0D%0A%0D%0A"}')

@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,270%20--%3E%2000:00:02,102%0D%0A-%20Socialization%20pressures%20boys%0D%0A%0D%0A2%0D%0A00:00:02,220%20--%3E%2000:00:04,447%0D%0Ato%20abandon%20half%20of%20who%20they%20are.%0D%0A%0D%0A"}')
